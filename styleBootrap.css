@@ -1,0 +1,26 @@
+
+#header{
+}
+
+#logo img{
+	height: 90px;
+}
+#logo{
+	margin: 10px;
+}
+
+#siler img{
+	max-width: 100%;
+}
+
+#content{
+	background: lightgrey;
+}
+
+/* -------------------------footer */
+#footer{
+	background-color: #101010;
+	padding-top: 15px;
+}
+
+
