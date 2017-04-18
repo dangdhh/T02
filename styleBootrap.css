@@ -2,12 +2,18 @@
 #header{
 }
 
-#logo img{
+/*#logo img{
+	padding-left: 20px;
 	height: 90px;
 }
 #logo{
-	margin: 10px;
-}
+	height: 200px;
+	background-image: url(http://www.bonusscommessesport.com/bonus-scommesse/primo-deposito_files/stacks-image-f87c90e.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 200px;
+	line-height: 200px;
+
+}*/
 
 #siler img{
 	max-width: 100%;
@@ -21,6 +27,10 @@
 #footer{
 	background-color: #101010;
 	padding-top: 15px;
+}
+
+a {
+	text-decoration: none;
 }
 
 
