@@ -29,8 +29,20 @@
 	padding-top: 15px;
 }
 
-a {
+
+a:link{
 	text-decoration: none;
 }
+a:visited { 
+	text-decoration: none; 
+} 
+a:hover { 
+	text-decoration: none; 
+} 
+a:active { 
+	text-decoration: none; 
+} 
 
-
+.h3 a{
+	max-width: 100%;
+}
